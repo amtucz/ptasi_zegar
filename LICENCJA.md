@@ -66,6 +66,19 @@ stronie Wikipedia po kliknięciu linku "Wiki" w karcie gatunku.
 Cormorant Garamond i Lora — licencja **SIL Open Font License 1.1**.
 Można używać komercyjnie i niekomercyjnie.
 
+### 8. Licznik odwiedzin (visitorbadge.io)
+
+W stopce strony osadzony jest badge SVG z usługi
+<https://visitorbadge.io>. Każde wczytanie strony powoduje
+zapytanie do tej usługi (przesyłany jest adres IP użytkownika
+oraz wartość parametru `path`). Usługa jest darmowa, nie
+wymaga rejestracji i nie udostępnia szczegółowych danych
+analitycznych — zwraca jedynie zsumowaną liczbę odwiedzin.
+
+Jeśli chcesz wyłączyć licznik, usuń element
+`<div class="visit-counter">…</div>` ze stopki pliku
+`zegar_v2.html` oraz regułę CSS `.visit-counter`.
+
 ## Co to oznacza w praktyce
 
 ✅ **Wolno:**

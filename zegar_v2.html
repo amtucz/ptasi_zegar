@@ -156,6 +156,8 @@ footer{margin-top:40px;padding:20px 18px;background:var(--glass-bg);backdrop-fil
 footer strong{color:var(--ink);font-style:normal;font-weight:600;}
 footer .credits{margin-top:7px;}
 footer code{font-family:'Consolas',ui-monospace,monospace;font-style:normal;font-size:11.5px;background:rgba(43,36,24,.08);padding:1px 6px;border-radius:3px;color:var(--ink);}
+.visit-counter{margin-top:18px;padding-top:14px;border-top:1px dotted rgba(43,36,24,.22);display:flex;justify-content:center;align-items:center;gap:10px;font-family:'Cormorant Garamond',serif;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);font-style:normal;font-weight:600;}
+.visit-counter img{height:20px;border-radius:3px;opacity:.92;vertical-align:middle;}
 
 /* ANIMATIONS */
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
@@ -388,6 +390,10 @@ footer code{font-family:'Consolas',ui-monospace,monospace;font-style:normal;font
     <div class="credits">Nagrania ptaków i niektórych owadów: <strong>Wikimedia Commons</strong> (CC BY-SA / CC BY 4.0). Nagrania żab i pasikonika z folderu <code>dzwieki/</code>: <strong>Xeno-canto</strong> (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener" style="color:var(--ink-2);text-decoration:underline">CC BY-NC-SA 4.0</a>) — wykorzystanie wyłącznie niekomercyjne, z zachowaniem tej samej licencji. Każde nagranie pozostaje własnością nagrywającego (zob. <a href="https://xeno-canto.org" target="_blank" rel="noopener" style="color:var(--ink-2);text-decoration:underline">xeno-canto.org</a>).</div>
     <div class="credits">Zdjęcia: <strong>Wikipedia REST API</strong> (licencje przy zdjęciach na stronie źródłowej). Tło: fotografia własna, osadzona w pliku.</div>
     <div class="credits"><strong>iPhone:</strong> Safari blokuje lokalne pliki HTML — uruchom mini-serwer (<code>python -m http.server</code>) i otwórz adres w Safari, albo wgraj plik na hosting.</div>
+    <div class="visit-counter">
+      <span>Licznik odwiedzin</span>
+      <img src="https://api.visitorbadge.io/api/visitors?path=ptasi_zegar.amtucz&label=&labelColor=%232b2418&countColor=%23a04a2a&style=flat&labelStyle=none" alt="Liczba odwiedzin"/>
+    </div>
   </footer>
 </div>
 
