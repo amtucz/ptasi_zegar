@@ -1,0 +1,18 @@
+# Claude Code local settings
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temp files
+_*.js
+_*.json
+_*.txt
