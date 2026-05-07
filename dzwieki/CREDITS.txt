@@ -1,0 +1,115 @@
+KREDYTY NAGRAŃ — folder dzwieki/
+=================================================
+
+Wszystkie nagrania pochodzą z bazy xeno-canto.org i są udostępniane
+na licencji Creative Commons CC BY-NC-SA 4.0 (jeśli nie zaznaczono
+inaczej w karcie XC danego nagrania). Pełna informacja o każdym
+nagraniu — w jego rekordzie XC pod podanym linkiem.
+
+Niniejsza strona internetowa jest niekomercyjna; redystrybucja
+nagrań wymaga zachowania tej samej licencji oraz przypisania
+autorstwa konkretnego nagrywającego.
+
+────────────────────────────────────
+OWADY
+────────────────────────────────────
+
+Pasikonik zielony
+  Plik:        dzwieki/pasikonik_zielony - Great Green Bush-cricket - Tettigonia viridissima.mp3
+  Nagrał:      Lennart Jeppsson
+  XC ID:       XC939181
+  Rok:         2024
+  URL:         https://xeno-canto.org/939181
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+────────────────────────────────────
+ŻABY I PŁAZY
+────────────────────────────────────
+
+Grzebiuszka ziemna
+  Plik:        dzwieki/grzebiuszka_ziemna - Common Spadefoot - Pelobates fuscus.mp3
+  Nagrał:      Adam Gruszczyński
+  XC ID:       XC902460
+  Rok:         2017
+  URL:         https://xeno-canto.org/902460
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Kumak górski
+  Plik:        dzwieki/kumak_gorski- Yellow-Bellied Toad - Bombina variegata.mp3
+  Nagrał:      Olivier SWIFT
+  XC ID:       XC951686
+  Rok:         2021
+  URL:         https://xeno-canto.org/951686
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Kumak nizinny
+  Plik:        dzwieki/kumak_nizinny - Fire-Bellied Toad - Bombina bombina.mp3
+  Nagrał:      brickegickel
+  XC ID:       XC910280
+  Rok:         2024
+  URL:         https://xeno-canto.org/910280
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Ropucha zielona
+  Plik:        dzwieki/ropucha zielona - Green Toad - Bufotes viridis.mp3
+  Nagrał:      Albert Lastukhin
+  XC ID:       XC910753
+  Rok:         2024
+  URL:         https://xeno-canto.org/910753
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Ropucha paskówka
+  Plik:        dzwieki/ropucha_paskowka - Natterjack Toad - Epidalea calamita.mp3
+  Nagrał:      Olivier SWIFT
+  XC ID:       XC951699
+  Rok:         2009
+  URL:         https://xeno-canto.org/951699
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Ropucha szara
+  Plik:        dzwieki/ropucha_szara - Common Toad - Bufo bufo.wav
+  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie
+  Sugerowane:  Nagrał: ____  XC ID: XC______  URL: https://xeno-canto.org/______
+
+Żaba dalmatyńska
+  Plik:        dzwieki/zaba_dalmatynska - Agile Frog - Rana dalmatina.mp3
+  Nagrał:      Guillaume Dillenseger
+  XC ID:       XC891963
+  Rok:         2024
+  URL:         https://xeno-canto.org/891963
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Żaba jeziorkowa
+  Plik:        dzwieki/zaba_jeziorkowa - Pool Frog - Pelophylax lessonae.wav
+  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie
+  Sugerowane:  Nagrał: ____  XC ID: XC______  URL: https://xeno-canto.org/______
+
+Żaba moczarowa
+  Plik:        dzwieki/zaba_moczarowa - Moor Frog - Rana arvalis.mp3
+  Nagrał:      Olivier SWIFT
+  XC ID:       XC889788
+  Rok:         2008
+  URL:         https://xeno-canto.org/889788
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Żaba śmieszka
+  Plik:        dzwieki/zaba_smieszka - Marsh Frog - Pelophylax ridibundus.mp3
+  Nagrał:      Olivier SWIFT
+  XC ID:       XC949771
+  Rok:         2019
+  URL:         https://xeno-canto.org/949771
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
+Żaba trawna
+  Plik:        dzwieki/zaba_trawna - Common Frog - Rana temporaria.wav
+  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie
+  Sugerowane:  Nagrał: ____  XC ID: XC______  URL: https://xeno-canto.org/______
+
+Rzekotka drzewna
+  Plik:        dzwieki/zekotka drzewna - Common Tree Frog - Hyla arborea.mp3
+  Nagrał:      Olivier SWIFT
+  XC ID:       XC956246
+  Rok:         2019
+  URL:         https://xeno-canto.org/956246
+  Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
+
