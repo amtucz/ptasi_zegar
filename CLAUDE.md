@@ -8,14 +8,26 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Development
 
-Open `ptasi_zegar.html` directly in a browser. There are no build steps, tests, or linting tools configured.
+Open `index.html` or `ptasi_zegar.html` directly in a browser. There are no build steps or linting tools configured. A lightweight static smoke test is available:
+
+```
+node tools/smoke-test.mjs
+```
 
 To preview changes during editing, use a local HTTP server (required for audio and fetch calls to work without CORS issues):
 
 ```
 python -m http.server 8080
-# then open http://localhost:8080/ptasi_zegar.html
+# then open http://localhost:8080/
 ```
+
+## Current Public Page Notes
+
+- `index.html` is the current public entry point for GitHub Pages.
+- `ptasi_zegar.html` remains the older bird-only variant.
+- The public page intentionally has no visitor badge or third-party tracking widget.
+- Local WAV files without confirmed attribution are documented in `dzwieki/CREDITS.txt` and are not wired into `index.html`.
+- After meaningful edits, run `node tools/smoke-test.mjs` and preview `/` through a local HTTP server.
 
 ## Architecture
 
@@ -48,7 +60,7 @@ The entire app lives in one file with three parts: `<style>`, HTML markup, and a
 - **Sky gradient**: `updateSky(h)` maps the hour (0–24) to three CSS variables (`--sky-1/2/3`) and a `--stars` opacity. Called every second via `updateClock()`.
 - **Bird accent color**: `getBirdAccent(hex)` brightens dark colors to ensure readable contrast, then sets `--bird-accent` on `documentElement`.
 - **SVGs**: `birdSvg(bird)` dispatches to `woodpeckerSvg()`, `magpieSvg()`, or `genericBirdSvg()` based on Latin name.
-- **Background image**: a large base64-encoded JPEG is embedded directly in the CSS `body::before` rule.
+- **Background image**: `body::before` loads the local `tlo.jpg` asset directly.
 
 ### Key DOM IDs
 

@@ -10,14 +10,14 @@ zachowania licencji każdego z elementów składowych**.
 
 ### 1. Kod HTML / CSS / JavaScript
 
-Plik `zegar_v2.html` — autor: użytkownik (właściciel projektu).
+Plik `index.html` — autor: użytkownik (właściciel projektu).
 Możesz wykorzystać kod na licencji **CC BY 4.0** (atrybucja autora
 projektu) lub **MIT**. Wybór należy do autora.
 
-### 2. Tło (`tlo.jpg`, osadzone jako base64 w HTML)
+### 2. Tło (`tlo.jpg`)
 
 Fotografia własna autora projektu. Licencja zgodna z deklaracją
-autora.
+autora. Plik jest ładowany jako zewnętrzny zasób lokalny z repozytorium.
 
 ### 3. Nagrania ptaków (Wikimedia Commons)
 
@@ -66,18 +66,11 @@ stronie Wikipedia po kliknięciu linku "Wiki" w karcie gatunku.
 Cormorant Garamond i Lora — licencja **SIL Open Font License 1.1**.
 Można używać komercyjnie i niekomercyjnie.
 
-### 8. Licznik odwiedzin (visitorbadge.io)
+### 8. Prywatność i zewnętrzne żądania
 
-W stopce strony osadzony jest badge SVG z usługi
-<https://visitorbadge.io>. Każde wczytanie strony powoduje
-zapytanie do tej usługi (przesyłany jest adres IP użytkownika
-oraz wartość parametru `path`). Usługa jest darmowa, nie
-wymaga rejestracji i nie udostępnia szczegółowych danych
-analitycznych — zwraca jedynie zsumowaną liczbę odwiedzin.
-
-Jeśli chcesz wyłączyć licznik, usuń element
-`<div class="visit-counter">…</div>` ze stopki pliku
-`zegar_v2.html` oraz regułę CSS `.visit-counter`.
+Strona nie zawiera już licznika odwiedzin ani elementu `visitorbadge.io`.
+Zewnętrzne żądania pozostają dla Google Fonts, Wikipedia REST API,
+Wikimedia Commons oraz linków/źródeł Xeno-canto.
 
 ## Co to oznacza w praktyce
 
@@ -109,4 +102,4 @@ Creative Commons BY-NC-SA 4.0 — pełen tekst po polsku:
 
 Każdy autor nagrania może zostać skontaktowany przez kartę
 profilu na xeno-canto.org. W razie pytań o tę stronę — zobacz
-nagłówek pliku `zegar_v2.html`.
+nagłówek pliku `index.html`.

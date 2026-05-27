@@ -68,7 +68,8 @@ Ropucha paskówka
 
 Ropucha szara
   Plik:        dzwieki/ropucha_szara - Common Toad - Bufo bufo.wav
-  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie
+  Status:      NIEUŻYWANE w aktualnej stronie do czasu potwierdzenia atrybucji
+  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie przed publikacją/odtworzeniem
   Sugerowane:  Nagrał: ____  XC ID: XC______  URL: https://xeno-canto.org/______
 
 Żaba dalmatyńska
@@ -81,7 +82,8 @@ Ropucha szara
 
 Żaba jeziorkowa
   Plik:        dzwieki/zaba_jeziorkowa - Pool Frog - Pelophylax lessonae.wav
-  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie
+  Status:      NIEUŻYWANE w aktualnej stronie do czasu potwierdzenia atrybucji
+  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie przed publikacją/odtworzeniem
   Sugerowane:  Nagrał: ____  XC ID: XC______  URL: https://xeno-canto.org/______
 
 Żaba moczarowa
@@ -102,7 +104,8 @@ Ropucha szara
 
 Żaba trawna
   Plik:        dzwieki/zaba_trawna - Common Frog - Rana temporaria.wav
-  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie
+  Status:      NIEUŻYWANE w aktualnej stronie do czasu potwierdzenia atrybucji
+  Atrybucja:   brak metadanych w pliku WAV — uzupełnij ręcznie przed publikacją/odtworzeniem
   Sugerowane:  Nagrał: ____  XC ID: XC______  URL: https://xeno-canto.org/______
 
 Rzekotka drzewna
@@ -112,4 +115,3 @@ Rzekotka drzewna
   Rok:         2019
   URL:         https://xeno-canto.org/956246
   Licencja:    CC BY-NC-SA 4.0 (Xeno-canto, domyślnie — sprawdź na karcie XC)
-
